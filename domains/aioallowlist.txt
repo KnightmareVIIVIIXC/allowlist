@@ -95,7 +95,6 @@ cws.conviva.com
 cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 d2c8v52ll5s99u.cloudfront.net
-d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 dashboard.plex.tv
 dataplicity.com
@@ -159,7 +158,6 @@ gan.doubleclick.net
 geo-prod.do.dsp.mp.microsoft.com
 geo3.ggpht.com
 gfwsl.geforce.com
-gfwsl.geforce.com
 giphy.com
 github.com
 github.io
@@ -203,7 +201,6 @@ licensing.xboxlive.com
 link.theplatform.com
 linksynergy.com
 live.com
-livepassdl.conviva.com
 livepassdl.conviva.com
 lm.licenses.adobe.com
 login.live.com
@@ -270,11 +267,9 @@ pubsub.plex.bz
 pubsub.plex.tv
 qksrv.net
 raw.githubusercontent.com
-raw.githubusercontent.com
 redirect.at
 redirect.viglink.com
 redirectingat.com
-redirector.googlevideo.com
 redirector.googlevideo.com
 refersion.com
 res.cloudinary.com
@@ -307,7 +302,6 @@ silo.pluto.tv
 siloh.pluto.tv
 skyhook.sonarr.tv
 someonewhocares.org
-spclient.wg.spotify.com
 spclient.wg.spotify.com
 sqs.us-east-1.amazonaws.com
 ssl.google-analytics.com
@@ -378,7 +372,6 @@ www.googleapis.com
 www.gopjn.com
 www.jdoqocy.com
 www.kqzyfj.com
-www.kqzyfj.com
 www.linksynergy.com
 www.lotustalk.com
 www.msftconnecttest.com
@@ -406,7 +399,6 @@ xsts.auth.xboxlive.com
 youtu.be
 youtube-nocookie.com
 yt3.ggpht.com
-z.cdn.turner.com
 z.cdn.turner.com
 zee.cws.conviva.com
 zeustracker.abuse.ch
